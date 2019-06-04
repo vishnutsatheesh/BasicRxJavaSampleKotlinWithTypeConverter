@@ -1,0 +1,2 @@
+# BasicRxJavaSampleKotlinWithTypeConverter
+Basic RxJava Sample Kotlin With TypeConverter
